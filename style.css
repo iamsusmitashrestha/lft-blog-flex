@@ -79,11 +79,11 @@ article {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 10px;
 }
 
 figure {
   margin-bottom: 40px;
-  margin-right: 16px;
 }
 
 img {
